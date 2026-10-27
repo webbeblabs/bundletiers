@@ -9,7 +9,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Offer "buy 2, save 10%" style bundles on your product page. Exact prices, variations counted together, no surprises in the cart.
+Sell more per order with tiered bundle discounts: buy 2 save 10%, buy 3 save 20%. Price cards on the product page, exact in the cart.
 
 == Description ==
 
@@ -81,6 +81,17 @@ By default a coupon applies on top of the bundle price. You can turn coupons off
 = What happens to my data if I delete the plugin? =
 
 Nothing, unless you tick "Delete data on uninstall" in the settings. Bundle details already saved on past order lines are always kept.
+
+== Screenshots ==
+
+1. Bundle cards on the product page: 1, 2 or 3 items, each with its price, saving and badge.
+2. Switch bundles on per product in Product data, BundleTiers.
+3. Default tiers in WooCommerce, Settings, BundleTiers.
+4. Style presets with a live preview.
+5. Colors for the cards, text and savings.
+6. Behavior settings.
+7. Texts you can change.
+8. Status screen: what BundleTiers found on your site.
 
 == Changelog ==
 

@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name:       BundleTiers – Bundle Discounts for WooCommerce
+ * Plugin URI:        https://bundletiers.com
  * Description:       Quantity-tier bundle discounts (1 / 2 / 3 pcs) for WooCommerce products, with variations counted together.
  * Version:           1.0.0
  * Requires at least: 6.5
